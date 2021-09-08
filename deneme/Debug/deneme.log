@@ -1,0 +1,30 @@
+﻿  main.cpp
+E:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': makro yeniden tanımlama
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\header\GLFW\glfw3.h(104): message : önceki 'APIENTRY' tanımına bakın
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(101,12): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(102,12): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(128,20): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(129,23): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(143,38): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(144,66): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(144,36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(158,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(161,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(164,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(167,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(170,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(173,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(176,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(179,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(182,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(189,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(192,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(195,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(205,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(208,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(211,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(214,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(217,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(220,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\deneme\src\main.cpp(223,25): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+  deneme.vcxproj -> C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\hoca\deneme\Debug\deneme.exe
