@@ -1,4 +1,4 @@
-# Making 3D Cube C++ and OpenGL 
+# Making 3D Objects with C++ and OpenGL 
 I have prepared 3D Models that can be rotating all around with keyboard commands. 
 The models are:
 - Triangle
@@ -65,5 +65,5 @@ and copy the important files to project folder.
 
   Execute  ```main.cpp```   file in ```deneme/src``` folder.
 
-Keyboard commands on the GUI ensure rotation ability on the 3D Cube
-- With left-right-up-down arrow on the keyboard the 3D Cube will be rotate.
+Keyboard commands on the GUI ensure rotation ability on the 3D Models
+- With left-right-up-down arrow on the keyboard the 3D Models will be rotate.
